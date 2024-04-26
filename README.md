@@ -130,12 +130,16 @@ DNS is a clear text protocol and should not be used for sensitive information. T
 
 Don't. Just don't.
 
+## Pull Requests
+
+You're on your own.
+
 ## To Do
-[] Add support for RAG 
-[] Implement DNS over TLS, and DNS over HTTPS
-[] Stress out John Connor
+- [ ] Add support for RAG
+- [ ] Implement DNS over TLS, and DNS over HTTPS
+- [ ] Stress out John Connor
 
 
 ## License
 
-This project is licensed under the WTF License - Not a real license, just a joke. Don
+This project is licensed under the WTF License - Not a real license, just a joke. Don't use this.
